@@ -1,10 +1,13 @@
 /***********************************************************************
  * Source File:
  *    TEST BISHOP
+ * 
+ * testing 
  * Author:
  *    Joshua Macias
  * Summary:
  *    The unit tests for a bishop based on Helfrich's provided code 
+ * 
  * 
  ************************************************************************/
 
